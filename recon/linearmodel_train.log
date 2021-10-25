@@ -1,0 +1,86 @@
+[
+    {
+        "elapsed_time": 142.12009692192078, 
+        "main/loss": 65.29647954305013, 
+        "validation/main/loss": 69.20706176757812, 
+        "iteration": 144, 
+        "epoch": 1
+    }, 
+    {
+        "elapsed_time": 292.8562250137329, 
+        "main/loss": 63.261886808607315, 
+        "validation/main/loss": 66.59587097167969, 
+        "iteration": 288, 
+        "epoch": 2
+    }, 
+    {
+        "elapsed_time": 438.57096695899963, 
+        "main/loss": 62.640578746795654, 
+        "validation/main/loss": 67.82798767089844, 
+        "iteration": 432, 
+        "epoch": 3
+    }, 
+    {
+        "elapsed_time": 582.9770600795746, 
+        "main/loss": 62.109382179048325, 
+        "validation/main/loss": 68.47112274169922, 
+        "iteration": 576, 
+        "epoch": 4
+    }, 
+    {
+        "elapsed_time": 718.8951559066772, 
+        "main/loss": 61.24070334434509, 
+        "validation/main/loss": 68.87187957763672, 
+        "iteration": 720, 
+        "epoch": 5
+    }, 
+    {
+        "elapsed_time": 849.182275056839, 
+        "main/loss": 59.56321377224393, 
+        "validation/main/loss": 65.29976654052734, 
+        "iteration": 864, 
+        "epoch": 6
+    }, 
+    {
+        "elapsed_time": 975.5343580245972, 
+        "main/loss": 59.574012438456215, 
+        "validation/main/loss": 66.36185455322266, 
+        "iteration": 1008, 
+        "epoch": 7
+    }, 
+    {
+        "elapsed_time": 1100.3046679496765, 
+        "main/loss": 58.9937301741706, 
+        "validation/main/loss": 64.82728576660156, 
+        "iteration": 1152, 
+        "epoch": 8
+    }, 
+    {
+        "elapsed_time": 1224.8518390655518, 
+        "main/loss": 58.58852198388841, 
+        "validation/main/loss": 64.74040985107422, 
+        "iteration": 1296, 
+        "epoch": 9
+    }, 
+    {
+        "elapsed_time": 1349.51011800766, 
+        "main/loss": 57.09952762391832, 
+        "validation/main/loss": 63.59063720703125, 
+        "iteration": 1440, 
+        "epoch": 10
+    }, 
+    {
+        "elapsed_time": 1491.8771839141846, 
+        "main/loss": 56.87032053205702, 
+        "validation/main/loss": 63.11004638671875, 
+        "iteration": 1584, 
+        "epoch": 11
+    }, 
+    {
+        "elapsed_time": 1620.1258759498596, 
+        "main/loss": 56.25142994191911, 
+        "validation/main/loss": 60.97763442993164, 
+        "iteration": 1728, 
+        "epoch": 12
+    }
+]
