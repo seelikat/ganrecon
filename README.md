@@ -59,9 +59,7 @@ Usage conditions
 
 If you publish using this code or use it in any other way, please cite:
 
-(preprint) Seeliger, K., Güçlü, U., Ambrogioni, L., Güçlütürk, Y., & van Gerven,
-M. A. J. (2017). Generative adversarial networks for reconstructing natural
-images from brain activity. bioRxiv, 226688.
-https://www.biorxiv.org/content/early/2017/12/08/226688
+Seeliger, K., Güçlü, U., Ambrogioni, L., Güçlütürk, Y., & van Gerven, M. A. J. (2018). Generative adversarial networks for reconstructing natural
+images from brain activity. NeuroImage.
 
 Please notify the corresponding author in addition.
